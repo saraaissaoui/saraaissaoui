@@ -11,6 +11,11 @@ Curieuse et rigoureuse, je cherche à mettre mes compétences en pratique dans d
 
 - **Jeu d’enquête en Python** : [Voir le projet](https://github.com/Yannick976/TBA)
 - **Mon site portfolio** : [Accéder au site](https://saraaissaoui.github.io/mon-site/)
+
+## Projets en cours
+
+- **Jeu Labyrinthe en C++** : développement d’un jeu en 2D avec déplacement du joueur, détection de collisions et collecte d’objets.  
+  Implémentation en cours de la gestion des ennemis et de l’affichage graphique.  
   
 ## Compétences techniques :
 
@@ -20,10 +25,6 @@ Curieuse et rigoureuse, je cherche à mettre mes compétences en pratique dans d
 - **Concepts** : Machine learning, Deep Learning, modélisation de données  
 - **Cybersécurité** : sécurisation des réseaux, cryptographie  
 - **Environnement** : Linux, Git, Visual Studio Code
-- 
-## Mes stats GitHub :
-
-![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=saraaissaoui&show_icons=true&theme=default)
 
 ## Technos principales :
 
