@@ -23,7 +23,7 @@ Curieuse et rigoureuse, je cherche à mettre mes compétences en pratique dans d
 - 
 ## Mes stats GitHub :
 
-![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=saraissaoui&show_icons=true&theme=default)
+![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=saraaissaoui&show_icons=true&theme=default)
 
 ## Technos principales :
 
