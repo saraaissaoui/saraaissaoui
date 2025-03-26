@@ -31,5 +31,10 @@ Curieuse et rigoureuse, je cherche à mettre mes compétences en pratique dans d
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ---
+## Me contacter
+
+- **Email** : sara.aissaoui@edu.esiee.fr 
+- **LinkedIn** : [linkedin.com/in/saraissaoui](http://linkedin.com/in/sara-aissaoui-6b6b4a306)
+
 
 Merci pour votre visite !
