@@ -20,6 +20,10 @@ Curieuse et rigoureuse, je cherche à mettre mes compétences en pratique dans d
 - **Concepts** : Machine learning, Deep Learning, modélisation de données  
 - **Cybersécurité** : sécurisation des réseaux, cryptographie  
 - **Environnement** : Linux, Git, Visual Studio Code
+- 
+## Mes stats GitHub :
+
+![Sara's GitHub stats](https://github-readme-stats.vercel.app/api?username=saraissaoui&show_icons=true&theme=default)
 
 ## Technos principales :
 
