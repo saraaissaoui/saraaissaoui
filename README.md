@@ -9,13 +9,15 @@ Curieuse et rigoureuse, je cherche à mettre mes compétences en pratique dans d
 
 ## Projets à découvrir :
 
-- **Jeu d’enquête en Python** : [Voir le projet](https://github.com/Yannick976/TBA)
-- **Mon site portfolio** : [Accéder au site](https://saraaissaoui.github.io/mon-site/)
+- 🎮 [**Jeu labyrinthe en C++**] : [Voir le projet](https://github.com/saraissaoui/MonJeuLabyrinthe) 
+- 🕵️‍♀️ [**Jeu d’enquête en Python**] : [Voir le projet](https://github.com/Yannick976/TBA)
+- 🌐 [**Mon site portfolio**] : [Accéder au site](https://saraaissaoui.github.io/mon-site/)
 
 ## Projets en cours
 
-- **Jeu Labyrinthe en C++** : développement d’un jeu en 2D avec déplacement du joueur, détection de collisions et collecte d’objets.  
-  Implémentation en cours de la gestion des ennemis et de l’affichage graphique.  
+- 🧠 **Détection de la dyslexie via EEG**  
+  Analyse de signaux cérébraux (EEG) pour identifier des marqueurs cognitifs liés à la dyslexie.  
+  ➤ Utilisation de capteurs EEG, protocoles standardisés, collecte de données, traitement par Machine Learning.
   
 ## Compétences techniques :
 
