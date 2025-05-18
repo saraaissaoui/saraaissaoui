@@ -9,7 +9,7 @@ Curieuse et rigoureuse, je cherche à mettre mes compétences en pratique dans d
 
 ## Projets à découvrir :
 
-- 🎮 **Jeu labyrinthe en C++** : [Voir le projet](https://github.com/saraissaoui/MonJeuLabyrinthe) 
+- 🎮 **Jeu labyrinthe en C++** : [Voir le projet](https://github.com/saraaissaoui/MonJeuLabyrinthe) 
 - 🕵️‍♀️ **Jeu d’enquête en Python** : [Voir le projet](https://github.com/Yannick976/TBA)
 - 🌐 **Mon site portfolio** : [Accéder au site](https://saraaissaoui.github.io/mon-site/)
 
