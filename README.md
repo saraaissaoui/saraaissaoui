@@ -4,14 +4,14 @@ Bienvenue sur mon GitHub.
 
 ## À propos de moi
 
-Étudiante en ingénierie à l'ESIEE Paris, je suis spécialisée en DATA et applications.
+Étudiante en première années du cycle ingénieur à l'ESIEE Paris, je suis spécialisée en DATA et applications.
 Curieuse et rigoureuse, je cherche à mettre mes compétences en pratique dans des projets concrets et innovants.
 
 ## Projets à découvrir :
 
-- 🎮 [**Jeu labyrinthe en C++**] : [Voir le projet](https://github.com/saraissaoui/MonJeuLabyrinthe) 
-- 🕵️‍♀️ [**Jeu d’enquête en Python**] : [Voir le projet](https://github.com/Yannick976/TBA)
-- 🌐 [**Mon site portfolio**] : [Accéder au site](https://saraaissaoui.github.io/mon-site/)
+- 🎮 **Jeu labyrinthe en C++** : [Voir le projet](https://github.com/saraissaoui/MonJeuLabyrinthe) 
+- 🕵️‍♀️ **Jeu d’enquête en Python** : [Voir le projet](https://github.com/Yannick976/TBA)
+- 🌐 **Mon site portfolio** : [Accéder au site](https://saraaissaoui.github.io/mon-site/)
 
 ## Projets en cours
 
